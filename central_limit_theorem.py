@@ -8,7 +8,7 @@ import streamlit as st
 
 
 
-st.title('Central Limit Theorem (CLT)') #todo: add icon and header animation here
+st.title('Central Limit Theorem (CLTs)') #todo: add icon and header animation here
 st.header('Theorem Description')
 
 Theorem_Description = """
